@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Wed, 31 Oct 2012 10:25:16 -0300
+Source: pion
+Binary: libpion-dev libpion-5.0
+Architecture: source
+Version: 5.0-4
+Distribution: quantal
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libpion-5.0 - lightweight HTTP interface library - runtime files
+ libpion-dev - lightweight HTTP interface library - development files
+Changes: 
+ pion (5.0-4) quantal; urgency=low
+ .
+   * porting to quantal
+Checksums-Sha1: 
+ 7e35617cd5471f4597643350a2f282a770e2718a 1598 pion_5.0-4.dsc
+ 8de1b345105b49344d397f4a87105776adfc3f30 39473959 pion_5.0.orig.tar.gz
+ e65a02402cbba8cf87962ca1cc9be950a1a57868 3662 pion_5.0-4.debian.tar.gz
+Checksums-Sha256: 
+ 63f2d472d7b2236c985a145cdba18df7c57b4996a6aec7acccd513614d62ee18 1598 pion_5.0-4.dsc
+ 6d4677f6bcbb82b357e4aef957abdc35801cf8296080e26c7d6ee970e4dc57e0 39473959 pion_5.0.orig.tar.gz
+ 6ec1c3b3b0ed811ae17232717d7a8f735e1017be0105ca8c3c851095ff9be845 3662 pion_5.0-4.debian.tar.gz
+Files: 
+ 85d0fac24f7910ada48e7134f414b13e 1598 libs extra pion_5.0-4.dsc
+ 158f75ebb63ae8b090b2bf48cb4cd0de 39473959 libs extra pion_5.0.orig.tar.gz
+ 5c46fc17ba4b949ea3f69803bd78456f 3662 libs extra pion_5.0-4.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJQ9Fm7AAoJEBO0O8yWZe3LKG8H/iEgly0BmrGXJ/wbTv1Fjcmw
+UdG9lAYPSjMu6pwV4+rU9n3n6pdynEa/ShtAsqYKbSGTpW8zBsAwpbpEZO09GZ+q
+olT/VtuZztVQ5UyYdo8ClAL05BLdLX6BFY9U0iiMWuSagot3hV9V5UwXaiHrXQzQ
+97PpoteR/se5g8om9yYzlKGaORhZaRZMx+qSFF+q8JJYqAhoy6RjTcfuIfMHaMm2
+LtRD8q9aFQjFbJiRfa0YRS59lXlxmZG38B868im7gaN9Saa0qruZ8/h3oYOLUJ+W
+2h4jV1+Qs9hLKbrBLBNmMMEBEPGdnvKs/bSW+/vNhbaj9m4U/028dK8257+pw7M=
+=5QBx
+-----END PGP SIGNATURE-----

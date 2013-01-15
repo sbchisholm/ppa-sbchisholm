@@ -1,0 +1,33 @@
+ dpkg-buildpackage -rfakeroot -d -us -uc -S -sa
+dpkg-buildpackage: source package pion
+dpkg-buildpackage: source version 5.0-4
+dpkg-buildpackage: source changed by Stephen B Chisholm <sbchisholm@gmail.com>
+ dpkg-source --before-build pion-5.0
+dpkg-source: info: applying changes.patch
+ fakeroot debian/rules clean
+dh clean
+   dh_testdir
+   dh_auto_clean
+   dh_clean
+ dpkg-source -b pion-5.0
+dpkg-source: info: using source format `3.0 (quilt)'
+dpkg-source: info: building pion using existing ./pion_5.0.orig.tar.gz
+dpkg-source: info: building pion in pion_5.0-4.debian.tar.gz
+dpkg-source: info: building pion in pion_5.0-4.dsc
+ dpkg-genchanges -S -sa >../pion_5.0-4_source.changes
+dpkg-genchanges: including full source code in upload
+ dpkg-source --after-build pion-5.0
+dpkg-source: info: unapplying changes.patch
+dpkg-buildpackage: full upload (original source is included)
+Now running lintian...
+W: pion source: package-needs-versioned-debhelper-build-depends 8
+W: pion source: debhelper-overrides-need-versioned-build-depends (>= 7.0.50~)
+E: pion source: build-depends-on-build-essential build-depends
+W: pion source: out-of-date-standards-version 3.9.2 (current is 3.9.3)
+Finished running lintian.
+Now signing changes and any dsc files...
+ signfile pion_5.0-4.dsc Stephen B Chisholm <sbchisholm@gmail.com>
+
+ signfile pion_5.0-4_source.changes Stephen B Chisholm <sbchisholm@gmail.com>
+
+Successfully signed dsc and changes files

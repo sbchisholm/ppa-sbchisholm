@@ -1,0 +1,18 @@
+ dpkg-buildpackage -rfakeroot -d -us -uc -S -sa
+dpkg-buildpackage: source package pion
+dpkg-buildpackage: source version 5.0-1
+dpkg-buildpackage: source changed by Stephen B Chisholm <sbchisholm@gmail.com>
+ dpkg-source --before-build pion-5.0
+ fakeroot debian/rules clean
+dh clean
+   dh_testdir
+   dh_auto_clean
+   dh_clean
+ dpkg-source -b pion-5.0
+dpkg-source: warning: no source format specified in debian/source/format, see dpkg-source(1)
+dpkg-source: info: using source format `1.0'
+dpkg-source: info: building pion using existing pion_5.0.orig.tar.gz
+dpkg-source: info: building pion in pion_5.0-1.diff.gz
+dpkg-source: error: cannot represent change to pion-5.0/ubuntu-12.10-desktop-amd64.iso: binary file contents changed
+dpkg-source: unrepresentable changes to source
+dpkg-buildpackage: error: dpkg-source -b pion-5.0 gave error exit status 1

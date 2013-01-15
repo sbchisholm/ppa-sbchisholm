@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 15 Oct 2012 16:00:24 -0300
+Source: json-spirit
+Binary: libjson-spirit-dev libjson-spirit
+Architecture: source
+Version: 4.05-3
+Distribution: quantal
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libjson-spirit - C++ JSON Parser/Writer
+ libjson-spirit-dev - C++ JSON Parser/Writer
+Changes: 
+ json-spirit (4.05-3) quantal; urgency=low
+ .
+   * Building for Quantal Quetzal
+Checksums-Sha1: 
+ 6ce5193dec7494cc26e613ceb40f4164c8628cc5 1407 json-spirit_4.05-3.dsc
+ 7866a855a7700a6d12d97a05138dd37020744e46 34220 json-spirit_4.05.orig.tar.gz
+ 238b1e96294e7ea8686cb3af6a6f77637604c587 1805 json-spirit_4.05-3.diff.gz
+Checksums-Sha256: 
+ 41be65a4a774032b0fa4b52004832b263d5df12cd7ef869cba7d9befd31d487e 1407 json-spirit_4.05-3.dsc
+ e67c07b349fadeb4fa35099ddf2c7674593e337979ef4191afa0832ccd54f074 34220 json-spirit_4.05.orig.tar.gz
+ eb3f42eb9081e4e331f77982e1eff5766d0e6cccc0c1da764efa6586daf4147a 1805 json-spirit_4.05-3.diff.gz
+Files: 
+ e1e94f93e2323b0003d55211d5fcc792 1407 libs extra json-spirit_4.05-3.dsc
+ 4f47c9df7325476547d8cad574e0d7e6 34220 libs extra json-spirit_4.05.orig.tar.gz
+ 916a9c33ab513a4afcd07035d446cfa8 1805 libs extra json-spirit_4.05-3.diff.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJQ9ExNAAoJEBO0O8yWZe3L9QsH/2Ws48PYu4+WE4aQ5oWf+PKP
+bEnofagoWd7EUzl54J98xFTIFmy/sKFvvkznDjPxKMhbNSTzRHcu80bM8/Ovrjgr
+A56wLnaCv58UHP8JkaKeHRVHtKwLUMlmhpRq7bRzUwuk4nCASqCR15CIynBSryBb
+q3kEfHblysVtJQXXLSTPv05YOkoZOWj+5UP7cStP2pl1oh4sOkiKxz7sj7TH5BVe
+jYzDpKuRbA8WMWlfsZvA53qMSwLg+QbeQ3NNA/QaliTtqleaZ/HrrRN2RkapWLHX
+kAXrO80DwpBsTR1zyk2pyxy/GWKdzC91hmhtMIGTJWYpw72k60wZyR37csvgQTI=
+=rHcZ
+-----END PGP SIGNATURE-----

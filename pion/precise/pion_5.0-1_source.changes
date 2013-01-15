@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 30 Oct 2012 16:15:16 -0300
+Source: pion
+Binary: libpion-dev libpion-5.0
+Architecture: source
+Version: 5.0-1
+Distribution: precise
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libpion-5.0 - lightweight HTTP interface library - runtime files
+ libpion-dev - lightweight HTTP interface library - development files
+Changes: 
+ pion (5.0-1) precise; urgency=low
+ .
+   * updated changes.patch to remove the tests directory from the build
+     instructions
+Checksums-Sha1: 
+ eb5c1327c3ff3da86aaf328f914ec2dc3e09c69f 1576 pion_5.0-1.dsc
+ 8de1b345105b49344d397f4a87105776adfc3f30 39473959 pion_5.0.orig.tar.gz
+ dc7a51e9bee83bb6dbed6d5171b4beeb021f7412 3298 pion_5.0-1.diff.gz
+Checksums-Sha256: 
+ 6d374f199e9508aa86f8268bbc2dea312f59138919c4fc0fd35765d23cfcbfab 1576 pion_5.0-1.dsc
+ 6d4677f6bcbb82b357e4aef957abdc35801cf8296080e26c7d6ee970e4dc57e0 39473959 pion_5.0.orig.tar.gz
+ fc1573135da1007eac7f8f2ef5df12da9e09eb616472ca263e1db3f2fc1d0c75 3298 pion_5.0-1.diff.gz
+Files: 
+ 27053e051ef3c15176bf19150e73bf81 1576 libs extra pion_5.0-1.dsc
+ 158f75ebb63ae8b090b2bf48cb4cd0de 39473959 libs extra pion_5.0.orig.tar.gz
+ 5428309f936751888dec51fc235b0594 3298 libs extra pion_5.0-1.diff.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJQkCnXAAoJEBO0O8yWZe3LuC0IAMKomccwowbIDqvNDwnm2H2R
+WbOXZyofIT/Lfp8EQGTxNDDdmsaIhBASVKKrxIJ4Crs+N9/QaNBPUin3Cli9dmqm
+D/cBgtB+f2tE38orJF89Tqd7KxGIhacNBP+xshrXN0xI32AU5l+PLXb1Uxon9pmL
+2+xnxlHLsSNtvRv1sIo7q2VxyavceLrR6lbvSTeJTV1U4XkxV7QhGHLgV1oQHQ3W
+A21LoGVYDZMmvzwaqG/gHnguVvFiCZRwHumaB+FPNLtn/6Tfv5XWetUdn+9qb46z
+YxX/YiVTpUeQlLLExp3uH1tLZ/SZ0j3RGeX3wSRPie4J1T6Njcfgpaabrmm6AwA=
+=lebj
+-----END PGP SIGNATURE-----
