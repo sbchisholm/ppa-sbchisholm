@@ -9,8 +9,17 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
+# use the correct make directory for 32bit or 64bit
+LBITS := $(shell getconf LONG_BIT)
+
+ifeq ($(LBITS),64)
+   MAKE_DIR=build/gcc46.unix.file64bit
+else
+   MAKE_DIR=build/gcc46.unix
+endif
+
 override_dh_auto_build:
-	cd build/gcc46.unix; STLSOFT=../../stlsoft-1.9.117 make build.libs.core; cd ../..
+	cd $(MAKE_DIR); STLSOFT=../../stlsoft-1.9.117 make build.libs.core; cd ../..
 
 #override_dh_auto_clean:
 #	cd build/gcc46.unix; dh_auto_clean -- clean
