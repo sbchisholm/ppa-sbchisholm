@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 30 Apr 2013 21:24:00 -0400
+Source: pantheios
+Binary: libpantheios-dev libpantheios-1.0
+Architecture: source
+Version: 1.0.1.214b-1
+Distribution: precise
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libpantheios-1.0 - Pantheios is an Open Source C/C++ Diagnostic Logging API
+ libpantheios-dev - Pantheios is an Open Source C/C++ Diagnostic Logging API
+Changes: 
+ pantheios (1.0.1.214b-1) precise; urgency=low
+ .
+   * initial build of panthieos for ubuntu
+Checksums-Sha1: 
+ 0f277e358f189b16afd90d3368100614b933144c 1447 pantheios_1.0.1.214b-1.dsc
+ 0ee78213203be4eba38cc0b4af01d430214b04a3 7113574 pantheios_1.0.1.214b.orig.tar.gz
+ d44b32dde06dd19a00a547b6ddc60c3194c28ef2 2629 pantheios_1.0.1.214b-1.diff.gz
+Checksums-Sha256: 
+ e1b31559096f3b9953cb85bdc59046b17f79a76a32b2719093f96f95982bb56d 1447 pantheios_1.0.1.214b-1.dsc
+ c80b306514493672cac2fac955d8fadf27a80ffc42de863638c595b907a89706 7113574 pantheios_1.0.1.214b.orig.tar.gz
+ 8c589b30b1bd86f70bbc153b90c124c9b1f4fdd4165011203eae8dcd8ae51395 2629 pantheios_1.0.1.214b-1.diff.gz
+Files: 
+ 406a55a21afec466c14c2499324f58ca 1447 libs extra pantheios_1.0.1.214b-1.dsc
+ de47c03cc7162dbc1fa3e31a4c017a67 7113574 libs extra pantheios_1.0.1.214b.orig.tar.gz
+ 832d23b901d5717cc32046224891533c 2629 libs extra pantheios_1.0.1.214b-1.diff.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJRgHWDAAoJENMgHV5JZ3C5bXwIAKoQ7byEWzBB5Xaj+PAThZzg
+HmHSe4zF8C2NEenbfb40d0SaxSP3V37z1RND7/HLcYoB+vN5H/zdOfdj7CPGwxzt
+q5o2HOnijD1t6q/M3cjAzy690GuT7giZZBlPVJdtJpT5i67mymLEPFU0Bq96kaRD
+dV0coY7VyhMTypevxtnxMFnyNtDn1obAbgJh/wiXJpcY70IyA8HwnBNbn4z8M+3p
+nsl0/FiOspwlduJFqFQQ8ITTwwUSSPxO7s6gx2w1tUOo3EG7FIB5icEQw2R947vf
+DAtswJ7mD3gYhnjTj5QBLU70wc/5NNmy93qU7eVpm+BWKfQBBjpAK4OVMXLaqac=
+=MbKG
+-----END PGP SIGNATURE-----

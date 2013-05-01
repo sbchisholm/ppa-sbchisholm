@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 30 Apr 2013 21:24:00 -0400
+Source: pantheios
+Binary: libpantheios-dev libpantheios-1.0
+Architecture: source
+Version: 1.0.1.214b-0
+Distribution: precise
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libpantheios-1.0 - Pantheios is an Open Source C/C++ Diagnostic Logging API
+ libpantheios-dev - Pantheios is an Open Source C/C++ Diagnostic Logging API
+Changes: 
+ pantheios (1.0.1.214b-0) precise; urgency=low
+ .
+   * initial build of panthieos for ubuntu
+Checksums-Sha1: 
+ 8655d85a1383204226a04f693be56c40cc2a9949 1107 pantheios_1.0.1.214b-0.dsc
+ 0ee78213203be4eba38cc0b4af01d430214b04a3 7113574 pantheios_1.0.1.214b.orig.tar.gz
+ 8790189677f24b571f0970a2c111beaa29804497 2731 pantheios_1.0.1.214b-0.diff.gz
+Checksums-Sha256: 
+ 2ad8147dfc7c8b84e787327612972fd4552c9229e49a53313bbc13aaf56c776e 1107 pantheios_1.0.1.214b-0.dsc
+ c80b306514493672cac2fac955d8fadf27a80ffc42de863638c595b907a89706 7113574 pantheios_1.0.1.214b.orig.tar.gz
+ 5cf3c69b03ec36543f62f41624ccb3f2aed811d0ba1d01681eaf9590a5f7f9f0 2731 pantheios_1.0.1.214b-0.diff.gz
+Files: 
+ a0a6cb33c301b0914d3dda7b0d26d25d 1107 libs extra pantheios_1.0.1.214b-0.dsc
+ de47c03cc7162dbc1fa3e31a4c017a67 7113574 libs extra pantheios_1.0.1.214b.orig.tar.gz
+ b6a20235030de44e49115bc8cdee13ab 2731 libs extra pantheios_1.0.1.214b-0.diff.gz
