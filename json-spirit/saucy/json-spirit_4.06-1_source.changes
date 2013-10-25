@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 09:53:00 -0400
+Source: json-spirit
+Binary: libjson-spirit-dev libjson-spirit
+Architecture: source
+Version: 4.06-1
+Distribution: saucy
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libjson-spirit - C++ JSON Parser/Writer
+ libjson-spirit-dev - C++ JSON Parser/Writer
+Changes: 
+ json-spirit (4.06-1) saucy; urgency=low
+ .
+   * Initial build for Saucy Salamander
+Checksums-Sha1: 
+ 6c9f7ced229f1f26e80856a201eef247cb674138 1442 json-spirit_4.06-1.dsc
+ 8ee389a37b6b080371b5ae9ce765a70a63ee8e31 32403 json-spirit_4.06.orig.tar.gz
+ 4c3deb515f1fc8d199598e55a9c5ac358a727525 1928 json-spirit_4.06-1.diff.gz
+Checksums-Sha256: 
+ 2035feae1fb6cdf35e73f00a8cfadcd229b4fc3c1157d91139c3c118b6960248 1442 json-spirit_4.06-1.dsc
+ 9e5b4705db5077b10788278140d096546f8e571d5597e0859ff838b99396de5f 32403 json-spirit_4.06.orig.tar.gz
+ c3e7f7f931646cf539e2377f6e05b962a01e4184b6707569e24cdae3588e6bd2 1928 json-spirit_4.06-1.diff.gz
+Files: 
+ fbc7c6e14be88b4a9753a132dd6e88d5 1442 libs extra json-spirit_4.06-1.dsc
+ dfa961236e33dfcaecfc8e8e48cb8c61 32403 libs extra json-spirit_4.06.orig.tar.gz
+ 0bad37d9110f84decef8efb623a3d461 1928 libs extra json-spirit_4.06-1.diff.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSanxMAAoJEI/kkZE7MSiaMwkIANNcCc+9SEcZ4DmeHBjkD+Lj
+PeOhfyBrP3wAhl39hpUVKEBWkntOUcm9nBmI2Dm7TVPlppRkuXQp2mphsEKcA7gL
+lgtVaqdPRZOEjqSqgm5eiaDbYlWtogUMeV8YwRMQMtpcR3k3AACT1CukH+KWv2eZ
+N31TkuyEgs5H8HvbI7wXCQ4kIcMxlNiMzN6nf5w7rm1T51BW5/DH8tY3u/CH6WON
+umRTuRfR6tFthzCNIW5YcyaTIBLEyKrtyQYHzY074L/dVrpZm8k/c9NTXT6jhlwt
+X5q/3F07KRFCzz4/QGkLYHMOfO8YdQC0sZk4YvHJ0D20067rKtZRSmQqMIglTRE=
+=okO2
+-----END PGP SIGNATURE-----

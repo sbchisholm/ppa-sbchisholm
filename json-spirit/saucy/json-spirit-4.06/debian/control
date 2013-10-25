@@ -1,0 +1,22 @@
+Source: json-spirit
+Priority: extra
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Build-Depends: debhelper, dh-buildinfo, libboost-dev, libboost-thread-dev, libboost-system-dev, cmake
+Standards-Version: 3.9.4
+Section: libs
+
+Package: libjson-spirit-dev
+Section: libdevel
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: C++ JSON Parser/Writer
+ C++ Development Library for parsing and writing JSON strings. This library 
+ is based off the boost spirit library.
+
+Package: libjson-spirit
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: C++ JSON Parser/Writer
+ C++ Development Library for parsing and writing JSON strings. This library 
+ is based off the boost spirit library.
