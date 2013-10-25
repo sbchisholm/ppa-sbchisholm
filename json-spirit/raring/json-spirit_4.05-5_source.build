@@ -19,6 +19,7 @@ dpkg-genchanges: not including original source code in upload
  dpkg-source --after-build json-spirit-4.05
 dpkg-buildpackage: source only, diff-only upload (original source NOT included)
 Now running lintian...
+E: json-spirit source: missing-separator-between-items in libjson-spirit-dev depends field between 'libjson-spirit' and '${shlibs:Depends}'
 W: json-spirit source: unused-build-dependency-on-cdbs
 W: json-spirit source: syntax-error-in-dep5-copyright line 12: Cannot parse line "Permission is hereby granted, free of charge, to any person"
 Finished running lintian.

@@ -1,0 +1,5 @@
+yaml-cpp (0.5.1-0) raring; urgency=low
+
+  * Creating initial packaging of yaml-cpp 0.5.1
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Mon, 31 Jul 2013 10:03:00 -0400

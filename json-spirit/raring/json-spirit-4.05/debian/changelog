@@ -1,3 +1,9 @@
+json-spirit (4.05-7) raring; urgency=low
+
+  * Fixed build warnings
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Mon, 22 Jul 2013 11:50:00 -0400
+
 json-spirit (4.05-6) raring; urgency=low
 
   * Added libjson-spirit as a dependancy to libjson-spirit-dev.

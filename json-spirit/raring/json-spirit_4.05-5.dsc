@@ -14,22 +14,22 @@ Package-List:
  libjson-spirit-dev deb libdevel extra
 Checksums-Sha1: 
  7866a855a7700a6d12d97a05138dd37020744e46 34220 json-spirit_4.05.orig.tar.gz
- ee5e56deef7377ecf6539fc7df6347e25babf235 1867 json-spirit_4.05-5.diff.gz
+ 22023cc6241d2183373619ff91d9949cb8c9ff63 1871 json-spirit_4.05-5.diff.gz
 Checksums-Sha256: 
  e67c07b349fadeb4fa35099ddf2c7674593e337979ef4191afa0832ccd54f074 34220 json-spirit_4.05.orig.tar.gz
- 3b3d4518e9f8a378eef88b9d96a20dc276c76121ea5ec5a0e62298099aba15da 1867 json-spirit_4.05-5.diff.gz
+ 12ea7641de1dd0ec5779df4f323cc93e77c07bc687f1f78599aef2ce9b05e0ae 1871 json-spirit_4.05-5.diff.gz
 Files: 
  4f47c9df7325476547d8cad574e0d7e6 34220 json-spirit_4.05.orig.tar.gz
- 0c2f76eddb235252bf5008396951236e 1867 json-spirit_4.05-5.diff.gz
+ d25aa1ccfb4988c92ea72412eaa32967 1871 json-spirit_4.05-5.diff.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJR0vrEAAoJEI/kkZE7MSia1hkIAKmM7bD1sFUclhUOU6lTrLZG
-GM3vQ8YGTe1SeSYmzeXtexylxPprYZz5isBVJCc/H6DDqSEJ54lwrZzaJZTeA7nv
-WcoWCiF9zTWSBP6H3p1C390PKyfNY9Ael0TU9eqBE7Txo7ZG2jXeQr9FbXL3IKkD
-mEF3Y20qtmUS8BE2Bfnw+1Tc3kW8weYmoFMiBnVPeE6NQV1+1hiqXGE4Q5cbFeoa
-G5ppqcyc7wOB57mootMp4qlMyaHteQFBQqaS9bXvP/+YgNbTjereqYYERKsasD/n
-7fzBmGxWEzEgDS96vSRP47ePRCD3+wV6KYJ8T7U2AEja8OWZYtEQwdMsvvxAulc=
-=g+kM
+iQEcBAEBAgAGBQJR7Ss4AAoJEI/kkZE7MSiaEC4H/RX6J+13wsd75WvP/IrjFaf2
+SJ73uOyRTFXUgyplsUlrAjP3kLUvMqDb+d9PCdNXQXVQ6WCmyMnkvWNF4/cjcgUu
+RwI7DqzN+PFix8Vt3GZxq7LpCE8zookQ8/6ik0Ks4zCMsRAg952Dhn1gd4YjeW/q
+iplfhgFTspUmCdbzOpByPathFUaQoU73p8/g+pwJlpo/Q8V3UjMVyoJCj69NRBz7
+arfb10I0Zi1lKuEOvJR9a+fnLz18pMoY0A4EmJFdxUvquya6gF3k+8rDFRpZyjpp
+v5GujcAAB2amjh6BF1HA5x6LnTVgGRWryKYNe1FdNVSYtimCZUFgeyvXTR8yHvM=
+=w3KY
 -----END PGP SIGNATURE-----
