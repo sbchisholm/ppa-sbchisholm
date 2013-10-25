@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 15:20:00 -0400
+Source: json-spirit
+Binary: libjson-spirit-dev libjson-spirit
+Architecture: source amd64
+Version: 4.06-3
+Distribution: stable
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libjson-spirit - C++ JSON Parser/Writer
+ libjson-spirit-dev - C++ JSON Parser/Writer
+Changes: 
+ json-spirit (4.06-3) stable; urgency=low
+ .
+   * Fixed changelog file
+Checksums-Sha1: 
+ 9544551195111bf48a53f7f5f330bf07c539896d 1442 json-spirit_4.06-3.dsc
+ 32a6e6bb130f5c68fd66d73efe988f5329b91b2f 1650 json-spirit_4.06-3.diff.gz
+ d37b303ac7f0fbb381da28067d68cc6eab993d9c 13150 libjson-spirit-dev_4.06-3_amd64.deb
+ 927c850af7fb39febe27d9ab2d8fe9109e5d9024 708670 libjson-spirit_4.06-3_amd64.deb
+Checksums-Sha256: 
+ 3fd8db3c8a7e679ddf9f95cffe0ef71f8352dd5b3edb18515b22b1214dfb6a9a 1442 json-spirit_4.06-3.dsc
+ ba9016b59e8e9b443bbeb3cbae151c0685f50b85b62702d22049ba3ed4c40713 1650 json-spirit_4.06-3.diff.gz
+ 2d6f0c2b425de279a7a834794e1739a0c7c4695072dac71fa85a34174d562a1e 13150 libjson-spirit-dev_4.06-3_amd64.deb
+ 3d0c962d7b07ed1052edce6be10125a4a43c827d0c64954050311062cf195e8c 708670 libjson-spirit_4.06-3_amd64.deb
+Files: 
+ a426db20910c70d388b3626ec31d8fa4 1442 libs extra json-spirit_4.06-3.dsc
+ a386bbb357cdf103e361d502b799b05d 1650 libs extra json-spirit_4.06-3.diff.gz
+ 3647b9cfaa9d2259cb3f63f19e5d0fad 13150 libdevel extra libjson-spirit-dev_4.06-3_amd64.deb
+ 045554a10cb55253714d24144777938c 708670 libs extra libjson-spirit_4.06-3_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSarhoAAoJEI/kkZE7MSiaMKEIANM8SyQwbcPaTseZk18MXOcJ
+xE70lFp1gK0efDO/synQFFoVvQKMCBxwUaeExuDP49CGSWRIJ2WFGVupKQ2tskM1
+cMsZu/WDMmCvvoIU2Q0hAe+GfxfMTx2axksZ3sbP7i2nOaDsambY680+UG0bxRl/
+E5x2iOGzOKmvD99ic95yAnb8tvCFsxuF9lTz7Gg+/pGeDS6bu6RwcIgqm7aUKrJW
+vRq40dLhazibP6g8BsTzqyBfJGr/ptmlbe74D6MiCaQJsspnHmE05OwbhelHmhxu
+4iQzSKocU7mgNMy1kB7dMs9pku9C5Ph3hC/UiihYexEEeIksXb483COgwtnujew=
+=96eN
+-----END PGP SIGNATURE-----

@@ -1,0 +1,17 @@
+json-spirit (4.06-3) stable; urgency=low
+
+  * Fixed changelog file
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Fri, 25 Oct 2013 15:20:00 -0400
+
+json-spirit (4.06-2) stable; urgency=low
+
+  * Added dependancy on libjson-spirit for libjson-spirit-dev
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Fri, 25 Oct 2013 09:53:00 -0400
+
+json-spirit (4.06-1) stable; urgency=low
+
+  * Initial build for Debian Wheezy
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Fri, 25 Oct 2013 09:53:00 -0400

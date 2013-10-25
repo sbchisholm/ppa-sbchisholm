@@ -1,0 +1,15 @@
+Package: libyaml-cpp-dev
+Source: yaml-cpp
+Version: 0.5.1-1
+Architecture: amd64
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Installed-Size: 1441
+Depends: libyaml-cpp0.5 (= 0.5.1-1)
+Section: libdevel
+Priority: optional
+Homepage: http://code.google.com/p/yaml-cpp/
+Description: YAML parser and emitter for C++ - development files
+ yaml-cpp is a C++ library for parsing and emitting data in YAML 1.2, a
+ human-readable data serialization format.
+ .
+ This package provides development files of yaml-cpp.

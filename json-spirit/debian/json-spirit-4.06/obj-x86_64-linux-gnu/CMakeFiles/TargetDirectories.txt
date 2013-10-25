@@ -1,0 +1,5 @@
+/home/steve/git/ppa-sbchisholm/json-spirit/debian/json-spirit-4.06/obj-x86_64-linux-gnu/json_demo/CMakeFiles/json_demo.dir
+/home/steve/git/ppa-sbchisholm/json-spirit/debian/json-spirit-4.06/obj-x86_64-linux-gnu/json_headers_only_demo/CMakeFiles/json_headers_only_demo.dir
+/home/steve/git/ppa-sbchisholm/json-spirit/debian/json-spirit-4.06/obj-x86_64-linux-gnu/json_map_demo/CMakeFiles/json_map_demo.dir
+/home/steve/git/ppa-sbchisholm/json-spirit/debian/json-spirit-4.06/obj-x86_64-linux-gnu/json_spirit/CMakeFiles/json_spirit.dir
+/home/steve/git/ppa-sbchisholm/json-spirit/debian/json-spirit-4.06/obj-x86_64-linux-gnu/json_test/CMakeFiles/json_test.dir

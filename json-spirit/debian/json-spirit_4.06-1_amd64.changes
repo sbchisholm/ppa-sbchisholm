@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 09:53:00 -0400
+Source: json-spirit
+Binary: libjson-spirit-dev libjson-spirit
+Architecture: source amd64
+Version: 4.06-1
+Distribution: wheezy
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libjson-spirit - C++ JSON Parser/Writer
+ libjson-spirit-dev - C++ JSON Parser/Writer
+Changes: 
+ json-spirit (4.06-1) wheezy; urgency=low
+ .
+   * Initial build for Debian Wheezy
+Checksums-Sha1: 
+ 1b1e8d66f6b7223f5ec225eaf19d055dd294fa6c 1442 json-spirit_4.06-1.dsc
+ 8ee389a37b6b080371b5ae9ce765a70a63ee8e31 32403 json-spirit_4.06.orig.tar.gz
+ 04f17155dd7a9d5bc2cc482c87969dbb59815b74 1573 json-spirit_4.06-1.diff.gz
+ 3657456c9c7637ae23a76daf4b9c222a2e1f3e42 13046 libjson-spirit-dev_4.06-1_amd64.deb
+ 4b3fba527e475efb3f543914db9954c1b65b0f1b 708576 libjson-spirit_4.06-1_amd64.deb
+Checksums-Sha256: 
+ fe645f7e7e76b7aeb1c1e524ef1933ae8daa335ad8d4a37bc91e379c8dc3a48a 1442 json-spirit_4.06-1.dsc
+ 9e5b4705db5077b10788278140d096546f8e571d5597e0859ff838b99396de5f 32403 json-spirit_4.06.orig.tar.gz
+ 619794ddb4b3e9fc65b8a21d18f23002b1984e1034ef6bdb8596e6ced0427a17 1573 json-spirit_4.06-1.diff.gz
+ dc2c492a8250a0a46e240fab47cecbec5ba9a7e886097e31effc705959f6a570 13046 libjson-spirit-dev_4.06-1_amd64.deb
+ c2908cac815b603ece9adb4b02f2536e7b7463675b7092ca22e9abd2acb4038c 708576 libjson-spirit_4.06-1_amd64.deb
+Files: 
+ cf1c0ab6d145b01767b524da258b8e5f 1442 libs extra json-spirit_4.06-1.dsc
+ dfa961236e33dfcaecfc8e8e48cb8c61 32403 libs extra json-spirit_4.06.orig.tar.gz
+ ddf17b5eac7040955722154548dd0159 1573 libs extra json-spirit_4.06-1.diff.gz
+ c277a91fab1b30d2edebda76eedcd635 13046 libdevel extra libjson-spirit-dev_4.06-1_amd64.deb
+ 448ba0efde3b3db3abaf707d035a1884 708576 libs extra libjson-spirit_4.06-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSaqaEAAoJEI/kkZE7MSia23YIAOTz8zFzsjYUCh+p/zm0FXUF
+IdrWkxSwwTH2g51MqHBvK0jfBVdCYE1SyyPf4pSVwhPBk39cLUc54xdyemYwDdf0
+UGEdCtlT5rZoqqiRuMMxwiPKD0x1qmzvpMxuZ34dNMN+kzQBIckJHrYK79wke86Z
++M1Qf4q7qVkC91Xn23FJn1rZOJxs2kgAS5uQ7Q2PojwOYglorpCqYsYgrzql9PUz
+12uWCnJ0gObjK+cZClG8ZXiVWY1oNoyduV7EANGPEw/ZI6k/owW3H30ZyucWEiJH
+glCHbmyhUCdBwSxxVp/5jTFMzWi/GwDa2lEnpHjU+wCugfSWX7jqo7N3mNp8ykY=
+=ekpS
+-----END PGP SIGNATURE-----

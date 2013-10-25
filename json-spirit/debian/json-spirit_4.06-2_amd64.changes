@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 09:53:00 -0400
+Source: json-spirit
+Binary: libjson-spirit-dev libjson-spirit
+Architecture: source amd64
+Version: 4.06-2
+Distribution: wheezy
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libjson-spirit - C++ JSON Parser/Writer
+ libjson-spirit-dev - C++ JSON Parser/Writer
+Changes: 
+ json-spirit (4.06-2) wheezy; urgency=low
+ .
+   * Added dependancy on libjson-spirit for libjson-spirit-dev
+Checksums-Sha1: 
+ a5a2ea5dbf2e0aa5f81c81a2391a187d7d22ceae 1442 json-spirit_4.06-2.dsc
+ cdb6263dc815d27eb33a576f2e8f7090343fcb44 1621 json-spirit_4.06-2.diff.gz
+ eb3ef42f78a142b5e6d6fddd510a834dad05feff 13120 libjson-spirit-dev_4.06-2_amd64.deb
+ 2a7f9715d2aceae908804f0f36dc158eed70bacd 708630 libjson-spirit_4.06-2_amd64.deb
+Checksums-Sha256: 
+ 7848c6a4f3be438d204bb34fc1ba086ffc2f0f9519c24210181d769d4f4593bf 1442 json-spirit_4.06-2.dsc
+ a60003152dfbfe947fb6cc24b1633bdc063cdefa4fbd7c718eae93ea19e7e7dc 1621 json-spirit_4.06-2.diff.gz
+ fc3716a49e55d91dcc1ac3fdc55dd97b26ef8ac320edb1ba44e918a9546a5ce7 13120 libjson-spirit-dev_4.06-2_amd64.deb
+ 4c85651dd5869166bf166abe7fc72917cf6ea6a1d5604cd3cb0eebb4150354e9 708630 libjson-spirit_4.06-2_amd64.deb
+Files: 
+ 9765032fffb2f8b4f6e8dcf3d7ce9026 1442 libs extra json-spirit_4.06-2.dsc
+ 4930eda08950ccef62dad5ab0ffb5c8b 1621 libs extra json-spirit_4.06-2.diff.gz
+ 344e1a9dc3b8ce2728865e0c6a6f2d79 13120 libdevel extra libjson-spirit-dev_4.06-2_amd64.deb
+ 3836c51619b25a25287d43421fd90d40 708630 libs extra libjson-spirit_4.06-2_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSaq2kAAoJEI/kkZE7MSiayCkH/2v6d9z5FKz8rOM69Ob3oXJr
+g34zb7+y/Dy/XdE+HPFA0yVHAg6GTG7xIAjL2RQ3LGNTQtosYFUInxGunQ4EhSHZ
+UCHVFrpo87DgVCs8qYP4p+m21RIA1vmEQ0l/25fiDQFX02xjz8CrIyGh59HZPHxM
+XNonuqFvKJSUuu8hLuU7Y9D3xlawhaJZF8YZEEcTy5QJrMjdTeUEm4CSCoYiYia2
++t5puF3KNZjPou6gXQS7M1EfsHuhd1OwFx1AnjkGkh5+ORZWcM01wvoT5Ry5Ggse
+2B/GBa/BFrIC3xmt082hXI4auKmf67eEyXX7eIPxq12pEjVL2UBEE4Bu1L6STFE=
+=tMyZ
+-----END PGP SIGNATURE-----

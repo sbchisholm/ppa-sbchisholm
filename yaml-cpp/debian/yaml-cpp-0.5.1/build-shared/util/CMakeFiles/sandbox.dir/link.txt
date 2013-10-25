@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -Wextra -pedantic -Wno-long-long -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security  -O2   -Wl,-z,relro CMakeFiles/sandbox.dir/sandbox.cpp.o  -o sandbox -rdynamic ../libyaml-cpp.so.0.5.1 -Wl,-rpath,/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-shared 
