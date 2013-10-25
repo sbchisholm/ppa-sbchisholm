@@ -6,8 +6,8 @@ Source tracking for the Personal Package Archive: ppa:sbchisholm/ppa
 Setup:
 ======
 
-Install dependancies: `sudo apt-get install debhelper debuild pbuilder`
-Build pbuilder test environment: `sudo pbuilder create`
+1. Install dependancies: `sudo apt-get install debhelper debuild pbuilder`
+2. Build pbuilder test environment: `sudo pbuilder create`
 
 Build/Test/Upload
 -----------------
