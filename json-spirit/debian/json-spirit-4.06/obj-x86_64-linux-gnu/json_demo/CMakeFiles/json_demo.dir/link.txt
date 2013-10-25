@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/json_demo.dir/json_demo.cpp.o  -o json_demo -rdynamic ../json_spirit/libjson_spirit.so -lboost_thread -lboost_system -Wl,-rpath,/home/steve/git/ppa-sbchisholm/json-spirit/debian/json-spirit-4.06/obj-x86_64-linux-gnu/json_spirit 

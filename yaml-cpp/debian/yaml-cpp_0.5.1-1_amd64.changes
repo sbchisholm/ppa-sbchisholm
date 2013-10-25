@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 15:27:00 -0400
+Source: yaml-cpp
+Binary: libyaml-cpp0.5 libyaml-cpp-dev
+Architecture: source amd64
+Version: 0.5.1-1
+Distribution: stable
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libyaml-cpp-dev - YAML parser and emitter for C++ - development files
+ libyaml-cpp0.5 - YAML parser and emitter for C++
+Changes: 
+ yaml-cpp (0.5.1-1) stable; urgency=low
+ .
+   * Creating initial packaging of yaml-cpp for debian
+Checksums-Sha1: 
+ b27498e904d4310768ad21aa4de5296a815f5dc2 1503 yaml-cpp_0.5.1-1.dsc
+ 9c5414b4090491e96d1b808fe8628b31e625fdaa 118244 yaml-cpp_0.5.1.orig.tar.gz
+ 8852a1d2337ab1d15d464d6fd9ccf95cd3e8e363 2135 yaml-cpp_0.5.1-1.debian.tar.gz
+ 6c856a4cfcfc6575ac0361e06f533bef1c5e697d 182494 libyaml-cpp0.5_0.5.1-1_amd64.deb
+ 37abd847c6bc61918d7517e3259bf51f21e05b5f 338592 libyaml-cpp-dev_0.5.1-1_amd64.deb
+Checksums-Sha256: 
+ b91e117f12dd8cd89fa67116e87b10e26274410d0d00dc16e21f75f39e26737b 1503 yaml-cpp_0.5.1-1.dsc
+ 3e7c9052b43d987d41819a203d97fc45de4eed3ec67e0fdb14265c3d11046f06 118244 yaml-cpp_0.5.1.orig.tar.gz
+ 6cc78e5090dc534a5c08e3dc8c39953d4cceabc047d3457da3cc9208ddd18ac4 2135 yaml-cpp_0.5.1-1.debian.tar.gz
+ 5ef3b4e26f0971f9a442a6004bada90456071acc59419435e7849240d49b99af 182494 libyaml-cpp0.5_0.5.1-1_amd64.deb
+ ebebeb9c65a33c937f1b9573e9092270857c42a4cac7c61c8ffdfbe98fc45c61 338592 libyaml-cpp-dev_0.5.1-1_amd64.deb
+Files: 
+ 872669b478ca51d5f61489aabf6e6e35 1503 devel optional yaml-cpp_0.5.1-1.dsc
+ 0fa47a5ed8fedefab766592785c85ee7 118244 devel optional yaml-cpp_0.5.1.orig.tar.gz
+ 8c3849c2c6abe1ce10509e7d1672e425 2135 devel optional yaml-cpp_0.5.1-1.debian.tar.gz
+ 8915ca9c33118ff85411b4856d99d329 182494 libs optional libyaml-cpp0.5_0.5.1-1_amd64.deb
+ 723c437d0bfccdb1f779239427d2648c 338592 libdevel optional libyaml-cpp-dev_0.5.1-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSarzQAAoJEI/kkZE7MSiaVToIAJ6/Mrjc830iWDpN273UbnOV
+7/c+zWaE1zE+LVNbx1F7kzvaHeAok5zQQcCJLrbkJAX6nyHk071DGPruW4lYyKGy
++0sKQBic5+6I6hIHSf0M3Gck9ZeiiO2OyTYkAl53u510ISaR+IkzczV/OeYPHe2o
+t+V7+v5HpBetptLDn1iXI/OWSsUhz8kGFsLYfeR9EEaF3Z6KI9HEBGDeXoFK3tOM
+wMHlMubuW+WkFySuxPcsB+KM9OWzMVIExkq0nZ/8+pJ+Y1B0HWnRc1ylF4RCemcS
+xoQthNltres4HbMPtTLvu/YUkfWTbvuSixqD7pF2wC6+mCU34ZVUkhMpl++qHn8=
+=EKwG
+-----END PGP SIGNATURE-----

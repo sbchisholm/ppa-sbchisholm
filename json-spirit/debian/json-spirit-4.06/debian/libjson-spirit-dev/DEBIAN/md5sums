@@ -1,0 +1,12 @@
+840510605104f8cea5e2b603f164df8c  usr/include/json_spirit.h
+a3ff330799dcf58228c26c07b8b24012  usr/include/json_spirit_error_position.h
+d089b5ad159bdb28507600f7f56c402c  usr/include/json_spirit_reader.h
+c7b8f9b76e67c856c3a1a3e00785ab4e  usr/include/json_spirit_reader_template.h
+cc3c1c0c97c5459f54da562f835c2665  usr/include/json_spirit_stream_reader.h
+daaf7f84cf10e0feb4e9813f3954e562  usr/include/json_spirit_utils.h
+c3bf7907c9f67a04d1b9a423051234ae  usr/include/json_spirit_value.h
+ae4e1bea211685e654fb0bdaa811cbd1  usr/include/json_spirit_writer.h
+88a192bc11b7ae2287792d2192817def  usr/include/json_spirit_writer_options.h
+6d028041b1b944592468678c0238fc40  usr/include/json_spirit_writer_template.h
+2944148c16af849baaf63abc04d44cda  usr/share/doc/libjson-spirit-dev/changelog.Debian.gz
+8d359f4ce160769ab5ac2b19e5ce7cbf  usr/share/doc/libjson-spirit-dev/copyright

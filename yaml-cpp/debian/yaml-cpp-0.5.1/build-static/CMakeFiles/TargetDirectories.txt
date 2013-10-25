@@ -1,0 +1,7 @@
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/CMakeFiles/debuggable.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/util/CMakeFiles/parse.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/util/CMakeFiles/read.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/CMakeFiles/releasable.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/test/CMakeFiles/run-tests.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/util/CMakeFiles/sandbox.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/debian/yaml-cpp-0.5.1/build-static/CMakeFiles/yaml-cpp.dir
