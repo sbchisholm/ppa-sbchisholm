@@ -8,7 +8,7 @@ Section: libs
 Package: libjson-spirit-dev
 Section: libdevel
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, libjson-spirit (= ${binary:Version})
 Description: C++ JSON Parser/Writer
  C++ Development Library for parsing and writing JSON strings. This library 
  is based off the boost spirit library.

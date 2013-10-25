@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 14:36:00 -0400
+Source: json-spirit
+Binary: libjson-spirit-dev libjson-spirit
+Architecture: source
+Version: 4.06-2
+Distribution: saucy
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libjson-spirit - C++ JSON Parser/Writer
+ libjson-spirit-dev - C++ JSON Parser/Writer
+Changes: 
+ json-spirit (4.06-2) saucy; urgency=low
+ .
+   * Added dependancy on libjson-spirit for libjson-spirit-dev
+Checksums-Sha1: 
+ d94403304f2ba819586c30ff34ad1a95014890c0 1442 json-spirit_4.06-2.dsc
+ 523b4285e524cc8fec58fade8409b12712bbdfd9 1969 json-spirit_4.06-2.diff.gz
+Checksums-Sha256: 
+ 510c45dfab4799c60d4c6dd0ceea37f12654a71c554c244f4e3d317f0acca018 1442 json-spirit_4.06-2.dsc
+ b0f973bf7909a626f11b3e63e4afd9b850d5592caa952efd4708a6a3f467e8a9 1969 json-spirit_4.06-2.diff.gz
+Files: 
+ 00e29b9f852a6f984bc0a26f1ec41fba 1442 libs extra json-spirit_4.06-2.dsc
+ 46d16a1a7c5f67c9e652e64feacdcdbd 1969 libs extra json-spirit_4.06-2.diff.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSaq8qAAoJEI/kkZE7MSiasXUIANCSruqu9q97N+oTdf9SN6Ek
+DCPYh6jaFQ1SDhcVmkTGgwjeEyXu3qA6Az7uJluYrvZuEwbd81KR6JHNGP7Rkk9x
+RihE3BcrlwQXPsgoCaHW3ylpDRAGDweqDRkGsqzLN4w2XKWKjemVUk2Yx6Ih9XiM
+eGETI5Xnhxnwt3ju6VF3XvnMzn/k4NkPvxIja0ojgvhWFG+zeTNjEeUX4jUHif6o
+Xw0YL1DQYmXET6riDzhx4Xl0vR5aG6or8iootQTemNaOJIDuIB7gTdweJM0NoF+2
+nE7vcNVJvijK3zDBnnaG05Gx6ZLBlEw6t3/uz99QGTy2PdFgUDCRNO7eRnlLkHA=
+=x3Z3
+-----END PGP SIGNATURE-----

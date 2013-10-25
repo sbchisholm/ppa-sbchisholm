@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 25 Oct 2013 15:27:00 -0400
+Source: yaml-cpp
+Binary: libyaml-cpp0.5 libyaml-cpp-dev
+Architecture: source
+Version: 0.5.1-1
+Distribution: raring
+Urgency: low
+Maintainer: Stephen B Chisholm <sbchisholm@gmail.com>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libyaml-cpp-dev - YAML parser and emitter for C++ - development files
+ libyaml-cpp0.5 - YAML parser and emitter for C++
+Changes: 
+ yaml-cpp (0.5.1-1) raring; urgency=low
+ .
+   * Creating initial packaging of yaml-cpp for saucy
+Checksums-Sha1: 
+ ea66a9ff4f731f0b63f07b35277d8d63e0ebe0af 1503 yaml-cpp_0.5.1-1.dsc
+ 65838c3b1e9cb4deb8ddc43c4ca8ceaa08325140 2173 yaml-cpp_0.5.1-1.debian.tar.gz
+Checksums-Sha256: 
+ 97a035f49e78392b12d25e82e2ab7985517ede6c91addd13818cc583e29e2b58 1503 yaml-cpp_0.5.1-1.dsc
+ 1ca13209300ab16acb6a4c601b8b807fe23efb4f3d2ee00f06209f3ff306566a 2173 yaml-cpp_0.5.1-1.debian.tar.gz
+Files: 
+ f7ee7a1bab782910f90a3c3d6513543a 1503 devel optional yaml-cpp_0.5.1-1.dsc
+ 237b621b8f467fb6bcf08f22590f71d4 2173 devel optional yaml-cpp_0.5.1-1.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSarj7AAoJEI/kkZE7MSiaeW8IAJvCoouIKUO5YXerS5ErKxu6
+1CswQbcLULaCKSsYV8BCbBQXgwwheSv8ljuyPY+jsdPn4LA/e8TwNLlJGnj6bz60
+v0pkHQGkNgLFC15LtPMVMMEsfKkFZAXUEmNZOow30BIKCrBh5ax68TwhPGkLMrIF
+A/L06G0PaSWXiUtjTIukD1v20R+BnvZI2tVEo760rKfzBJZcJNDuyan19ENfTwif
+pve8BaGMcElGQdsPh6BtoX4Ha35+3cqApDHpL+NC2cAPNw7L4U2JovKe0+2mZWL+
+93T4PIWi8qrolVZbOJXyLsMYnyvj4nzavNXzjSijNPeOvNs4BSxtcGm/C5QI5pw=
+=1QzW
+-----END PGP SIGNATURE-----

@@ -1,0 +1,11 @@
+yaml-cpp (0.5.1-1) raring; urgency=low
+
+  * Creating initial packaging of yaml-cpp for saucy
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Fri, 25 Oct 2013 15:27:00 -0400
+
+yaml-cpp (0.5.1-0) raring; urgency=low
+
+  * Creating initial packaging of yaml-cpp 0.5.1
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Mon, 31 Jul 2013 10:03:00 -0400

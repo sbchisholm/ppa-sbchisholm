@@ -1,3 +1,9 @@
+json-spirit (4.06-2) saucy; urgency=low
+
+  * Added dependancy on libjson-spirit for libjson-spirit-dev
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Fri, 25 Oct 2013 14:36:00 -0400
+
 json-spirit (4.06-1) saucy; urgency=low
 
   * Initial build for Saucy Salamander
