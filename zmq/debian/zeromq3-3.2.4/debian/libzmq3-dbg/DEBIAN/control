@@ -1,0 +1,20 @@
+Package: libzmq3-dbg
+Source: zeromq3
+Version: 3.2.4-1
+Architecture: amd64
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Installed-Size: 1236
+Depends: libzmq3 (= 3.2.4-1)
+Section: debug
+Priority: extra
+Multi-Arch: same
+Homepage: http://www.zeromq.org/
+Description: lightweight messaging kernel (debugging symbols)
+ ØMQ is a library which extends the standard socket interfaces with features
+ traditionally provided by specialised messaging middleware products.
+ .
+ ØMQ sockets provide an abstraction of asynchronous message queues, multiple
+ messaging patterns, message filtering (subscriptions), seamless access to
+ multiple transport protocols and more.
+ .
+ This package contains the debugging symbols for the ZeroMQ library.

@@ -1,0 +1,21 @@
+Package: libzmq3-dev
+Source: zeromq3
+Version: 3.2.4-1
+Architecture: amd64
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Installed-Size: 1311
+Depends: libzmq3 (= 3.2.4-1)
+Conflicts: libzmq-dev
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: http://www.zeromq.org/
+Description: lightweight messaging kernel (development files)
+ ØMQ is a library which extends the standard socket interfaces with features
+ traditionally provided by specialised messaging middleware products.
+ .
+ ØMQ sockets provide an abstraction of asynchronous message queues, multiple
+ messaging patterns, message filtering (subscriptions), seamless access to
+ multiple transport protocols and more.
+ .
+ This package contains the ZeroMQ development libraries and header files.

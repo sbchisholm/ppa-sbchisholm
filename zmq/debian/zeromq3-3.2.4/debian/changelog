@@ -1,0 +1,5 @@
+zeromq3 (3.2.4-1) stable; urgency=low
+
+  * Adding Chris Lea's zeromq3 libraries to ppa:sbchisholm/ppa
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Sun, 27 Oct 2013 11:27:00 -0400

@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 27 Oct 2013 11:27:00 -0400
+Source: zeromq3
+Binary: libzmq3 libzmq3-dev libzmq3-dbg
+Architecture: source amd64
+Version: 3.2.4-1
+Distribution: stable
+Urgency: low
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libzmq3    - lightweight messaging kernel (shared library)
+ libzmq3-dbg - lightweight messaging kernel (debugging symbols)
+ libzmq3-dev - lightweight messaging kernel (development files)
+Changes: 
+ zeromq3 (3.2.4-1) stable; urgency=low
+ .
+   * Adding Chris Lea's zeromq3 libraries to ppa:sbchisholm/ppa
+Checksums-Sha1: 
+ 17ed5e46d3387b722c28593be5ab535ecdbf76cb 1589 zeromq3_3.2.4-1.dsc
+ 7f6030fe34e9e117c60c57109cf8fd2cafba01e2 1056674 zeromq3_3.2.4.orig.tar.gz
+ 7e4d4c763e993186659972586249b58afb5c1cf6 6846 zeromq3_3.2.4-1.debian.tar.gz
+ 0049119992c049aa6d2772df100a526254735904 356062 libzmq3_3.2.4-1_amd64.deb
+ 4ca5ff22277b8dadbb49a6ffd598b604772cef47 523882 libzmq3-dev_3.2.4-1_amd64.deb
+ 23c56e51e8c6169ea8a0bfd38d838a07d1d1b645 1142642 libzmq3-dbg_3.2.4-1_amd64.deb
+Checksums-Sha256: 
+ 107f4fb49be0e39cbf7ff83ec0a9756e88d5e4f20f659e38261b7b6b50ce8930 1589 zeromq3_3.2.4-1.dsc
+ 24470d9f0a26386b8ddc3f9bcb774f0705c04496ea89748859d5b2c30ea11435 1056674 zeromq3_3.2.4.orig.tar.gz
+ c7d3fd42a85317984bbc9f5e54ddd60bea415caf884216c76b29f03cb7dd2007 6846 zeromq3_3.2.4-1.debian.tar.gz
+ c3e10aca35b3b89eda1ed3072cf92fa5018ab98f4954a92fea8b2a215cbb42fb 356062 libzmq3_3.2.4-1_amd64.deb
+ cc220e7413ada0ddfe0a4146bed81213b4f274d18ef379de5629e7eb6929e85f 523882 libzmq3-dev_3.2.4-1_amd64.deb
+ afbfeeebd0153dc2f5f5cf9c1942a1d82fdf6831aaf66f22afebef8263e8228d 1142642 libzmq3-dbg_3.2.4-1_amd64.deb
+Files: 
+ 0538f62e97a79df1417b33a549cb2ae7 1589 libs optional zeromq3_3.2.4-1.dsc
+ b483db61eb373cd38fc0295109c251d2 1056674 libs optional zeromq3_3.2.4.orig.tar.gz
+ 4f2478a194762bc0826ac610fa823434 6846 libs optional zeromq3_3.2.4-1.debian.tar.gz
+ 87c42f09ac39a5b5ee4437d87e01ae9b 356062 libs optional libzmq3_3.2.4-1_amd64.deb
+ c63bd59a0e97dc4e57ea8dcc69e9b52c 523882 libdevel optional libzmq3-dev_3.2.4-1_amd64.deb
+ 814f9f3a8a24667b86ef6823d089b6dd 1142642 debug extra libzmq3-dbg_3.2.4-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSbSrKAAoJEI/kkZE7MSiadxIH/iv6fIrmT0yeDoTjnHx3nTjH
+VZfVlVRI1JB76yJPtKKTPL1w7xi3J+ultJfeXj0zY28CLW3pWV6kMk544gkiSmvL
+bQnO+2MG3/jyzTa3OVZavQzxQMdAv6R5Mkmcb0ZS3cJJCKyq9+DE+qjvJwI3wFwK
+5uu1fBypCRuDRYlw2CDJCiEIdpO1MicqDJkVNTZ2ynEXYsY+vPE6iNpkTiOW1iPb
+q4ysb/r5UnH0CutInqw5O/yC8NBUdW6Gb3niVghx0etLWUpfrT6pCqrngK6sgSUN
+t6eA7Qc73DrS1S0gdTzb3MMBiGcEsk/ui8MkzcIOJAQsbt94wN7twKTtQK/sBUY=
+=291A
+-----END PGP SIGNATURE-----
