@@ -1,0 +1,30 @@
+#!/usr/bin/make -f
+
+ifeq ($(DEB_BUILD_ARCH_OS), kfreebsd)
+	DO_TEST = no
+endif
+
+ifeq ($(DEB_BUILD_ARCH_CPU), s390)
+	DO_TEST = no
+endif
+
+ifeq ($(DEB_BUILD_ARCH_CPU), s390x)
+	DO_TEST = no
+endif
+
+%:
+	dh $@ --with=autotools-dev
+
+override_dh_auto_configure:
+	dh_auto_configure -- --with-system-pgm
+
+override_dh_auto_test:
+ifneq ($(DO_TEST), no)
+	dh_auto_test
+else
+	-dh_auto_test
+endif
+
+override_dh_strip:
+	dh_strip --dbg-package=libzmq3-dbg
+

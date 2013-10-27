@@ -1,4 +1,4 @@
-yaml-cpp (0.5.1-1) raring; urgency=low
+yaml-cpp (0.5.1-2) saucy; urgency=low
 
   * Creating initial packaging of yaml-cpp for saucy
 

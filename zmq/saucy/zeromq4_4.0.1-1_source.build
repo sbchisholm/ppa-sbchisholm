@@ -1,0 +1,30 @@
+ dpkg-buildpackage -rfakeroot -d -us -uc -S -a
+dpkg-buildpackage: source package zeromq4
+dpkg-buildpackage: source version 4.0.1-1
+dpkg-buildpackage: source changed by Stephen B Chisholm <sbchisholm@gmail.com>
+ dpkg-source --before-build zeromq4-4.0.1
+ fakeroot debian/rules clean
+dh clean --with=autotools-dev
+   dh_testdir
+   dh_auto_clean
+   dh_autotools-dev_restoreconfig
+   dh_clean
+ dpkg-source -b zeromq4-4.0.1
+dpkg-source: info: using source format `3.0 (quilt)'
+dpkg-source: info: building zeromq4 using existing ./zeromq4_4.0.1.orig.tar.gz
+dpkg-source: info: building zeromq4 in zeromq4_4.0.1-1.debian.tar.gz
+dpkg-source: info: building zeromq4 in zeromq4_4.0.1-1.dsc
+ dpkg-genchanges -S >../zeromq4_4.0.1-1_source.changes
+dpkg-genchanges: including full source code in upload
+ dpkg-source --after-build zeromq4-4.0.1
+dpkg-buildpackage: full upload (original source is included)
+Now running lintian...
+Finished running lintian.
+Now signing changes and any dsc files...
+ signfile zeromq4_4.0.1-1.dsc Stephen B Chisholm <sbchisholm@gmail.com>
+gpg: gpg-agent is not available in this session
+
+ signfile zeromq4_4.0.1-1_source.changes Stephen B Chisholm <sbchisholm@gmail.com>
+gpg: gpg-agent is not available in this session
+
+Successfully signed dsc and changes files

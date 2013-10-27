@@ -1,0 +1,6 @@
+zeromq4 (4.0.1-1) saucy; urgency=low
+
+  * Creating initial packaging of zmq4 for saucy
+
+ -- Stephen B Chisholm <sbchisholm@gmail.com>  Fri, 25 Oct 2013 21:14:00 -0400
+

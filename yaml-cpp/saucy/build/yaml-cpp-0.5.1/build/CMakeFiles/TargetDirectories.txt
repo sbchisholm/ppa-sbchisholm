@@ -1,0 +1,7 @@
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/CMakeFiles/debuggable.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/util/CMakeFiles/parse.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/util/CMakeFiles/read.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/CMakeFiles/releasable.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/test/CMakeFiles/run-tests.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/util/CMakeFiles/sandbox.dir
+/home/steve/git/ppa-sbchisholm/yaml-cpp/saucy/build/yaml-cpp-0.5.1/build/CMakeFiles/yaml-cpp.dir

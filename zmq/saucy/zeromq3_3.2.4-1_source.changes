@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sun, 27 Oct 2013 11:27:00 -0400
+Source: zeromq3
+Binary: libzmq3 libzmq3-dev libzmq3-dbg
+Architecture: source
+Version: 3.2.4-1
+Distribution: saucy
+Urgency: low
+Maintainer: Alessandro Ghedini <ghedo@debian.org>
+Changed-By: Stephen B Chisholm <sbchisholm@gmail.com>
+Description: 
+ libzmq3    - lightweight messaging kernel (shared library)
+ libzmq3-dbg - lightweight messaging kernel (debugging symbols)
+ libzmq3-dev - lightweight messaging kernel (development files)
+Changes: 
+ zeromq3 (3.2.4-1) saucy; urgency=low
+ .
+   * Adding Chris Lea's zeromq3 libraries to ppa:sbchisholm/ppa
+Checksums-Sha1: 
+ 96d114668b19e868299b65c7a5df2b74ef75f57f 1589 zeromq3_3.2.4-1.dsc
+ 7f6030fe34e9e117c60c57109cf8fd2cafba01e2 1056674 zeromq3_3.2.4.orig.tar.gz
+ 81d22c87c494c37924789ac9bee98a7c60188145 9123 zeromq3_3.2.4-1.debian.tar.gz
+Checksums-Sha256: 
+ d7b1771c3c52dcd6cfbba3ef5fa0c4c13cc452178222e3467043da94ef83c3ce 1589 zeromq3_3.2.4-1.dsc
+ 24470d9f0a26386b8ddc3f9bcb774f0705c04496ea89748859d5b2c30ea11435 1056674 zeromq3_3.2.4.orig.tar.gz
+ 35d7a66ec92d39678638f9013dd8e69cb09bc3f70fba4b0aed0768b78c961b4f 9123 zeromq3_3.2.4-1.debian.tar.gz
+Files: 
+ d9598d18e3eddc04ab246a67265b6f90 1589 libs optional zeromq3_3.2.4-1.dsc
+ b483db61eb373cd38fc0295109c251d2 1056674 libs optional zeromq3_3.2.4.orig.tar.gz
+ 9277a64f0d671e3416e400ac794c01dd 9123 libs optional zeromq3_3.2.4-1.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSbSQEAAoJEI/kkZE7MSia04wIALDodn+cOzqEao8n0Jzh+YT3
+vxWcjlLKAqnWhwPWM7GN16QrHlaPfDF0WfdwkWXWDPQ7Ko4xyaqPF7vtxmz1Z/Ky
+ljmhw39nun3BpEclortFAECIS+zwjk8l+Cdv0PxoxbLzd4qfdtfMNjG96LW9tKx1
+gU7FGAqBve7Qjlz7l0mphgQvUrW8KsT8Ta7MfbYjFqifKIHPkZFusZciI4t39FC+
+dUmdmYtkcmfwaphWa5T55vCgNDJP4FFz4E1alB+OZCbgyM/Wu0dc3o0CAepIRQlE
+VPnXeRLLcrsVLPUFjI7fMY/O9oIaw99y1qdl5UehnWE7hb4x10WAf1khCR+jl4U=
+=JZg/
+-----END PGP SIGNATURE-----

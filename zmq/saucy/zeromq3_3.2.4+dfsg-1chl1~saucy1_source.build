@@ -1,0 +1,14 @@
+ dpkg-buildpackage -rfakeroot -d -us -uc -S -a
+dpkg-buildpackage: source package zeromq3
+dpkg-buildpackage: source version 3.2.4+dfsg-1chl1~saucy1
+dpkg-buildpackage: source changed by Stephen B Chisholm <sbchisholm@gmail.com>
+ dpkg-source --before-build zeromq3-3.2.4
+ fakeroot debian/rules clean
+dh clean --with=autotools-dev
+   dh_testdir
+   dh_auto_clean
+   dh_autotools-dev_restoreconfig
+   dh_clean
+ dpkg-source -b zeromq3-3.2.4
+dpkg-source: error: can't build with source format '3.0 (quilt)': no upstream tarball found at ../zeromq3_3.2.4+dfsg.orig.tar.{bz2,gz,lzma,xz}
+dpkg-buildpackage: error: dpkg-source -b zeromq3-3.2.4 gave error exit status 255

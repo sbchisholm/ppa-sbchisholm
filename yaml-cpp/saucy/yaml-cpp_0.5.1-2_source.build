@@ -1,0 +1,30 @@
+ dpkg-buildpackage -rfakeroot -d -us -uc -S -a
+dpkg-buildpackage: source package yaml-cpp
+dpkg-buildpackage: source version 0.5.1-2
+dpkg-buildpackage: source changed by Stephen B Chisholm <sbchisholm@gmail.com>
+ dpkg-source --before-build yaml-cpp-0.5.1
+ fakeroot debian/rules clean
+dh_testdir
+dh_auto_clean
+dh_clean
+rm -rf build-static build-shared
+ dpkg-source -b yaml-cpp-0.5.1
+dpkg-source: info: using source format `3.0 (quilt)'
+dpkg-source: info: building yaml-cpp using existing ./yaml-cpp_0.5.1.orig.tar.gz
+dpkg-source: info: building yaml-cpp in yaml-cpp_0.5.1-2.debian.tar.gz
+dpkg-source: info: building yaml-cpp in yaml-cpp_0.5.1-2.dsc
+ dpkg-genchanges -S >../yaml-cpp_0.5.1-2_source.changes
+dpkg-genchanges: not including original source code in upload
+ dpkg-source --after-build yaml-cpp-0.5.1
+dpkg-buildpackage: binary and diff upload (original source NOT included)
+Now running lintian...
+W: yaml-cpp source: out-of-date-standards-version 3.9.3 (current is 3.9.4)
+Finished running lintian.
+Now signing changes and any dsc files...
+ signfile yaml-cpp_0.5.1-2.dsc Stephen B Chisholm <sbchisholm@gmail.com>
+gpg: gpg-agent is not available in this session
+
+ signfile yaml-cpp_0.5.1-2_source.changes Stephen B Chisholm <sbchisholm@gmail.com>
+gpg: gpg-agent is not available in this session
+
+Successfully signed dsc and changes files
